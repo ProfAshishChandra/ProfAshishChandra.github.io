@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /
 title: "Ashish Chandra"
 excerpt: "Assistant Professor, Illinois State University"
